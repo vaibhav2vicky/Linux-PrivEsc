@@ -1,28 +1,30 @@
 ## Enumeration
 
-- hostname
+- hostname : prints the host name of the machine
     
-- uname -a
+- uname -a : prints the kernel version
     
-- /proc/version
+- /proc/version : contains the OS info
     
-- /etc/issue
+- /etc/issue : contains info about OS
     
-- ps -A
+- ps -A : View all running processes
     
-- ps axjf
+- ps axjf : View process tree
     
-- env
+- env : command will show environmental variables.
     
-- sudo -l
+- sudo -l : command can be used to list all commands your user can run using sudo
     
-- ls -al
+- ls -al : lists all files inside the directory
     
-- id
+- id : command will provide a general overview of the user’s privilege level and group memberships
     
-- /etc/passwd
+- /etc/passwd : contains info about users on the system
     
-- history
+- history : command can give us some idea about the target system and, albeit rarely, have stored information such as passwords or usernames.
+
+
     
 - Find Command
 
